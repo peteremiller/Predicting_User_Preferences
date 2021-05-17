@@ -5,5 +5,9 @@ I created a recommender system using Python scikit named Surprise. The purpose o
 
 The dataset was examined and cleared for analysis using Surprise...
 
+<img src="mid.png">
+
+
+The Surprise library was used for training and testing the dataset.
 
 <img src="Screenshot (131).png">
