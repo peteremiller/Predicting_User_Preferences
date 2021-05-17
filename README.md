@@ -5,4 +5,5 @@ I created a recommender system using Python scikit named Surprise. The purpose o
 
 The dataset was examined and cleared for analysis using Surprise...
 
-<img src="Screenshot (130).png">
+
+<img src="Screenshot (131).png">
